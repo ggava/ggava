@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Gabriel de Almeida Gava
+🔭 I’m currently a intern where I use Google AppsScript(a google tool) most of the time to create interfaces, this makes it possible to digitize many manual things.
+
+### Skills: JavaScript/HTML/CSS/Python/Java/C
+
+🌱 I’m currently learning REACT and Assembly. On vacation I started studying SQL(SQL Server) but i needed to stop because of the college.
+
+### How to reach me:
+    e-mail: g.gava212@gmail.com
 
 <!--
 **ggava/ggava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
