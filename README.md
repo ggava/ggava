@@ -27,7 +27,6 @@ Currently working with:
 - ETL/ELT Pipelines
 - Distributed Processing
 - Azure & AWS
-- Data Modeling
 - SQL & Python
 
 I’m passionate about scalable systems, big data processing, and modern data platforms.
