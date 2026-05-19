@@ -27,10 +27,7 @@ Currently working with:
 - ETL/ELT Pipelines
 - Distributed Processing
 - Azure & AWS
-- Data Modeling
 - SQL & Python
-
-I’m passionate about scalable systems, big data processing, and modern data platforms.
 
 ---
 
@@ -72,18 +69,6 @@ Data engineering project implementing Bronze, Silver, and Gold layers using Spar
 
 ### Distributed Data Processing
 Large-scale distributed processing project focused on performance and scalability.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggava&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggava&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
