@@ -29,8 +29,6 @@ Currently working with:
 - Azure & AWS
 - SQL & Python
 
-I’m passionate about scalable systems, big data processing, and modern data platforms.
-
 ---
 
 ## Tech Stack
