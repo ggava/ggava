@@ -1,9 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Gabriel%20Gava&fontSize=40&fontColor=ffffff"/>
-
-# Gabriel de Almeida Gava
-
-<div align="center">
-
 Data Engineer | PySpark | Databricks | Azure | AWS
 
 <br>
@@ -140,5 +134,3 @@ Large-scale distributed processing project focused on performance and scalabilit
 - Email: g.gava212@gmail.com
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
